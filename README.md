@@ -1,4 +1,4 @@
-# 🤖 Copy Trading Bot 🤎
+# 🤖 Copy Trading Bot 🤎🤎
 
 A fully automated **Copy Trading Bot** that allows users to replicate the trades of professional or high-performing traders in real time.  
 This bot ensures seamless trade mirroring with robust execution, portfolio management, and scalable strategies.  
@@ -76,6 +76,7 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 
 For inquiries, collaborations, or support, please reach out via:  
 📧 **xtoshi999@gmail.com**  
+Never Losing Arbitrage bot!
 Never Losing Arbitrage bot!
 Never Losing Arbitrage bot!
 Never Losing Arbitrage bot!
